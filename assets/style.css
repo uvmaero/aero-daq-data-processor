@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+
+}
+
+#centerContainer {
+    width: 8.5in;
+    text-align: left;
+    margin: 0px auto;
+}

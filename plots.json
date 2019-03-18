@@ -1,0 +1,17 @@
+{
+    "Rinehart Temperature": {
+        "x": "ts",
+        "y": "rinehart.temp",
+        "xlabel": "Time (s)",
+        "ylabel": "Rinehart Temperature (C)"
+    },
+    "Cell Temperatures": {
+        "x": "ts",
+        "y": [
+            "cell_temps.0",
+            "cell_temps.1"
+        ],
+        "xlabel": "Time (s)",
+        "ylabel": "Cell Temperature (C)"
+    }
+}
